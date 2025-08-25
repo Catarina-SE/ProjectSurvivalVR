@@ -1,6 +1,6 @@
 # 🧊 ProjectSurvivalVR
 
-**ProjectSurvivalVR** is a virtual reality survival game built in Unreal Engine. Players are dropped into a harsh cold environment where they must survive and progress through immersive climbing — all in VR.
+**ProjectSurvivalVR** is a virtual reality survival game built in Unreal Engine 5. Players are dropped into a harsh cold environment where they must survive and progress through immersive climbing — all in VR.
 
 ---
 
