@@ -32,3 +32,6 @@ Saved/
 *.vsconfig
 .diversion/
 .dvignore
+Content/Assets/AlpineMountains/PNB_Alpine_Mountain/Maps/AlpineMountainsMap.umap
+Content/Assets/AlpineMountains/PNB_Alpine_Mountain/Maps/AlpineMountainsMap_BuiltData.uasset
+Content/Maps/SnowMapLayout.umap
