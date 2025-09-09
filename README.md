@@ -1,24 +1,16 @@
 # 🧊 ProjectSurvivalVR
 
-**ProjectSurvivalVR** is a virtual reality survival game built in Unreal Engine 5. Players are dropped into a harsh cold environment where they must survive and progress through immersive climbing — all in VR.
+An immersive VR experience built entirely in C++, focused on survival and climbing. The goal is to create an engaging and challenging environment for players while maintaining a smooth experience.
 
----
+Players are dropped into a harsh cold environment where they must survive and progress through immersive climbing — all in VR.
 
-## 🎮 Features
+--------------------------------------
+# Trailer
 
-- 🔥 Survival mechanics: Hunger, Temperature, Stamina
-- Climbing Mechanics
-- 🕶️ VR support for immersive interaction
+[<img width="1280" height="720" alt="transferir" src="https://github.com/user-attachments/assets/4e2983a4-5ee2-462e-b72d-94b0c78e33e0" />](https://www.youtube.com/watch?v=uil_3ZbI-z0)
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Unreal Engine 5.x
-- VR headset (Meta Quest, HTC Vive, or Valve Index recommended)
-- Git LFS installed and initialized.
 
 
 Project Developed with the collaboration of Nelson Romão.
+
+
