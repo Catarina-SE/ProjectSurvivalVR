@@ -1,4 +1,5 @@
 # 🧊 ProjectSurvivalVR
+![ProjectSurvivalVR2](https://github.com/user-attachments/assets/93b1b793-e9cf-4423-b970-56a84c810e48)
 
 An immersive VR experience built entirely in C++, focused on survival and climbing. The goal is to create an engaging and challenging environment for players while maintaining a smooth experience.
 
