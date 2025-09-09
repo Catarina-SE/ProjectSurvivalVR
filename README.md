@@ -4,7 +4,7 @@ An immersive VR experience built entirely in C++, focused on survival and climbi
 
 Players are dropped into a harsh cold environment where they must survive and progress through immersive climbing — all in VR.
 
-If you want to know more details about this project, access my porfolio page! https://catarina-se.github.io/Portfolio/ProjectSurvivalVR.html
+If you want to know more details about this project, access my portfolio page! https://catarina-se.github.io/Portfolio/ProjectSurvivalVR.html
 
 --------------------------------------
 # Trailer
