@@ -1,3 +1,5 @@
+<div align="center">
+
 ![ProjectSurvivalVR2](https://github.com/user-attachments/assets/93b1b793-e9cf-4423-b970-56a84c810e48)
 
 An immersive VR experience built entirely in C++, focused on survival and climbing. The goal is to create an engaging and challenging environment for players while maintaining a smooth experience.
@@ -31,3 +33,4 @@ If you want to know more details about this project, access my portfolio page! h
 Project Developed with the collaboration of Nelson Romão.
 
 
+</div>
